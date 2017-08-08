@@ -38,18 +38,18 @@ cask vmware-horizon-client
 tap caskroom/versions
 
 tap homebrew/core
-brew boost
-brew exiftool
-brew ffmpeg
-brew git
-brew highlight
-brew icu4c
-brew lame
-brew lua
-brew mas
 brew node
-brew x264
+brew mas
+brew git
+brew ffmpeg
+brew lame
+brew exiftool
+brew icu4c
+brew lua
 brew xvid
+brew x264
+brew highlight
+brew boost
 
 tap rcmdnk/file
 brew brew-file
@@ -57,8 +57,8 @@ brew brew-file
 # App Store applications
 appstore 417375580 BetterSnapTool (1.7)
 appstore 420212497 Byword (2.8)
-appstore 1048338802 Cookie 5 (5.5.7)
-appstore 1024640650 CotEditor (3.1.8)
+appstore 1048338802 Cookie 5 (5.5.8)
+appstore 1024640650 CotEditor (3.2.0)
 appstore 445211988 FormatMatch (1.3)
 appstore 510934532 FreeMan (1.4.1)
 appstore 463243494 Kopypasta (1.2)
