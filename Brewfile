@@ -21,7 +21,6 @@ cask imageoptim
 cask iterm2
 cask liteicon
 cask macclean
-cask malwarebytes-anti-malware
 cask my-image-garden
 cask qlcolorcode
 cask qlimagesize
@@ -54,11 +53,14 @@ brew boost
 tap rcmdnk/file
 brew brew-file
 
+# Cask applications
+cask malwarebytes-anti-malware
+
 # App Store applications
 appstore 417375580 BetterSnapTool (1.7)
 appstore 420212497 Byword (2.8)
 appstore 1048338802 Cookie 5 (5.5.8)
-appstore 1024640650 CotEditor (3.2.0)
+appstore 1024640650 CotEditor (3.2.1)
 appstore 445211988 FormatMatch (1.3)
 appstore 510934532 FreeMan (1.4.1)
 appstore 463243494 Kopypasta (1.2)
@@ -67,5 +69,5 @@ appstore 428834068 Night Owl (2.85)
 appstore 409201541 Pages (6.2)
 appstore 407963104 Pixelmator (3.6)
 appstore 445189367 PopClip (1.5.7)
-appstore 425424353 The Unarchiver (3.11.1)
+appstore 425424353 The Unarchiver (3.11.2)
 appstore 595374522 VirusScannerPlus (3.9)
