@@ -51,7 +51,7 @@ cask qlimagesize
 cask qlstephen
 cask quicklook-json
 cask station
-cask zoom
+cask zoomus
 
 tap buo/cask-upgrade
 
