@@ -78,7 +78,7 @@ cask station
 # App Store applications
 appstore 417375580 BetterSnapTool (1.9)
 appstore 1024640650 CotEditor (3.7.8)
-appstore 408981434 iMovie (10.1.12)
+appstore 408981434 iMovie (10.1.13)
 appstore 462058435 Microsoft Excel (16.29)
 appstore 462062816 Microsoft PowerPoint (16.29)
 appstore 462054704 Microsoft Word (16.29)
