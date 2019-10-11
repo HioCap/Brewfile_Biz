@@ -23,6 +23,7 @@ brew libtool
 brew little-cms2
 brew lua
 brew mas
+brew ncurses
 brew oniguruma
 brew openexr
 brew openjpeg
@@ -37,6 +38,7 @@ brew sqlite
 brew webp
 brew x265
 brew xz
+brew zsh
 
 tap homebrew/bundle
 
