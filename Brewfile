@@ -38,7 +38,6 @@ brew sqlite
 brew webp
 brew x265
 brew xz
-brew zsh
 
 tap homebrew/bundle
 
