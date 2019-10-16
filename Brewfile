@@ -46,23 +46,24 @@ cask adobe-acrobat-reader
 cask amazon-workspaces
 cask atom
 cask clipy
-cask google-chrome
-cask imageoptim
-cask qlcolorcode
-cask qlmarkdown
-cask quicklook-csv
-cask spotify
-cask suspicious-package
+cask firefox
+cask google-drive-file-stream
+cask iterm2
+cask qlimagesize
+cask qlstephen
+cask quicklook-json
+cask station
+cask zoomus
 
 tap buo/cask-upgrade
 
 tap caskroom/cask
 cask alfred
 cask cheatsheet
-cask google-drive-file-stream
-cask qlimagesize
-cask quicklook-json
-cask zoomus
+cask google-chrome
+cask qlcolorcode
+cask quicklook-csv
+cask suspicious-package
 
 tap caskroom/versions
 
@@ -72,13 +73,13 @@ brew brew-file
 # Other Cask applications
 cask appcleaner
 cask dash
-cask iterm2
-cask qlstephen
-cask station
+cask imageoptim
+cask qlmarkdown
+cask spotify
 
 # App Store applications
 appstore 417375580 BetterSnapTool (1.9)
-appstore 1024640650 CotEditor (3.7.8)
+appstore 1024640650 CotEditor (3.8.2)
 appstore 408981434 iMovie (10.1.13)
 appstore 462058435 Microsoft Excel (16.29)
 appstore 462062816 Microsoft PowerPoint (16.29)
