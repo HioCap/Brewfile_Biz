@@ -78,7 +78,7 @@ cask qlmarkdown
 cask spotify
 
 # App Store applications
-appstore 417375580 BetterSnapTool (1.9)
+appstore 417375580 BetterSnapTool (1.9.2)
 appstore 1024640650 CotEditor (3.8.2)
 appstore 408981434 iMovie (10.1.13)
 appstore 462058435 Microsoft Excel (16.29)
