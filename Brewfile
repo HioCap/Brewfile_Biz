@@ -79,12 +79,12 @@ cask spotify
 
 # App Store applications
 appstore 417375580 BetterSnapTool (1.9.2)
-appstore 1024640650 CotEditor (3.8.2)
+appstore 1024640650 CotEditor (3.8.4)
 appstore 408981434 iMovie (10.1.13)
 appstore 462058435 Microsoft Excel (16.29)
 appstore 462062816 Microsoft PowerPoint (16.29)
 appstore 462054704 Microsoft Word (16.29)
 appstore 803453959 Slack (4.1.0)
 appstore 425424353 The Unarchiver (4.1.0)
-appstore 1278508951 Trello (2.11.1)
+appstore 1278508951 Trello (2.11.2)
 appstore 882655968 ZIPANG (1.1)
