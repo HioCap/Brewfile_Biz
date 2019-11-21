@@ -59,6 +59,7 @@ cask zoomus
 tap buo/cask-upgrade
 
 tap caskroom/cask
+cask adobe-acrobat-reader
 cask appcleaner
 cask dash
 cask imageoptim
