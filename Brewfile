@@ -27,7 +27,6 @@ brew ncurses
 brew oniguruma
 brew openexr
 brew openjpeg
-brew openssl
 brew openssl@1.1
 brew pcre
 brew pcre2
