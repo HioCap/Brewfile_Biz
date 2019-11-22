@@ -41,28 +41,28 @@ brew xz
 tap homebrew/bundle
 
 tap homebrew/cask
-cask adobe-acrobat-pro
-cask alfred
-cask appcleaner
-cask cheatsheet
-cask dash
-cask google-chrome
-cask imageoptim
-cask qlcolorcode
-cask qlmarkdown
-cask quicklook-csv
-cask spotify
-cask suspicious-package
+cask adobe-creative-cloud
+cask amazon-workspaces
+cask atom
+cask clipy
+cask firefox
+cask google-drive-file-stream
+cask iterm2
+cask qlimagesize
+cask qlstephen
+cask quicklook-json
+cask station
+cask zoomus
 
 tap buo/cask-upgrade
 
 tap caskroom/cask
-cask adobe-creative-cloud
-cask atom
-cask firefox
-cask iterm2
-cask qlstephen
-cask station
+cask alfred
+cask cheatsheet
+cask google-chrome
+cask qlcolorcode
+cask quicklook-csv
+cask suspicious-package
 
 tap caskroom/versions
 
@@ -70,12 +70,11 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask amazon-workspaces
-cask clipy
-cask google-drive-file-stream
-cask qlimagesize
-cask quicklook-json
-cask zoomus
+cask appcleaner
+cask dash
+cask imageoptim
+cask qlmarkdown
+cask spotify
 
 # App Store applications
 appstore 417375580 BetterSnapTool (1.9.2)
