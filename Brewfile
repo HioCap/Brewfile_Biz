@@ -42,47 +42,45 @@ tap homebrew/bundle
 
 tap homebrew/cask
 cask adobe-creative-cloud
+cask alfred
 cask amazon-workspaces
+cask appcleaner
 cask atom
+cask cheatsheet
 cask clipy
+cask dash
 cask firefox
+cask google-chrome
 cask google-drive-file-stream
+cask imageoptim
 cask iterm2
+cask qlcolorcode
 cask qlimagesize
+cask qlmarkdown
 cask qlstephen
+cask quicklook-csv
 cask quicklook-json
+cask spotify
 cask station
+cask suspicious-package
 cask zoomus
 
 tap buo/cask-upgrade
 
 tap caskroom/cask
-cask alfred
-cask cheatsheet
-cask google-chrome
-cask qlcolorcode
-cask quicklook-csv
-cask suspicious-package
 
 tap caskroom/versions
 
 tap rcmdnk/file
 brew brew-file
 
-# Other Cask applications
-cask appcleaner
-cask dash
-cask imageoptim
-cask qlmarkdown
-cask spotify
-
 # App Store applications
 appstore 417375580 BetterSnapTool (1.9.2)
 appstore 1024640650 CotEditor (3.8.7)
 appstore 408981434 iMovie (10.1.14)
-appstore 462058435 Microsoft Excel (16.32)
-appstore 462062816 Microsoft PowerPoint (16.32)
-appstore 462054704 Microsoft Word (16.32)
+appstore 462058435 Microsoft Excel (16.33)
+appstore 462062816 Microsoft PowerPoint (16.33)
+appstore 462054704 Microsoft Word (16.33)
 appstore 803453959 Slack (4.2.0)
 appstore 425424353 The Unarchiver (4.1.0)
 appstore 1278508951 Trello (2.11.3)
