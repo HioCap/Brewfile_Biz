@@ -76,7 +76,7 @@ brew brew-file
 
 # App Store applications
 appstore 417375580 BetterSnapTool (1.9.2)
-appstore 1024640650 CotEditor (3.8.7)
+appstore 1024640650 CotEditor (3.8.8)
 appstore 408981434 iMovie (10.1.14)
 appstore 462058435 Microsoft Excel (16.33)
 appstore 462062816 Microsoft PowerPoint (16.33)
