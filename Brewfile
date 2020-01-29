@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew autoconf
 brew freetype
 brew gdbm
 brew gettext
@@ -30,6 +31,8 @@ brew openjpeg
 brew openssl@1.1
 brew pcre
 brew pcre2
+brew pkg-config
+brew pyenv
 brew python
 brew readline
 brew shared-mime-info
